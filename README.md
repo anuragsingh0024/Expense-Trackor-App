@@ -12,7 +12,7 @@ A frontend application to track your daily expenses.
 ## Getting Started
 Clone the repository:
 ```bash
-git clone https://github.com/username/expense-tracker.git
+git clone https://github.com/anuragsingh0024/expense-tracker.git
 
 npm install
 npm run dev
